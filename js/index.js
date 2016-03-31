@@ -8,6 +8,7 @@ $(document).ready(function() {
 		console.log ('city-type');
 		
 		var city = $('#city-type').val(); 
+		// city = city.toLowerCase();
 		//created a variable to log what city is inputted when someone clicks submit
 		var body = $('body');
 		
