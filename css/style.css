@@ -123,19 +123,19 @@ header {
   background: #fff600;
 }
 
-.nyc {
+body.nyc {
   background-image: url(../images/nyc.jpg)
 }
-.sf {
+body.sf {
   background-image: url(../images/sf.jpg)
 }
-.la {
+body.la {
   background-image: url(../images/la.jpg)
 }
-.austin {
+body.austin {
   background-image: url(../images/austin.jpg)
 }
-.sydney {
+body.sydney {
   background-image: url(../images/sydney.jpg)
 }
 
