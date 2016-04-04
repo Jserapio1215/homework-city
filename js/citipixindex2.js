@@ -11,19 +11,19 @@ $(document).ready(function() {
 		console.log(value);
 		// if states are used to change the background when a specific value is selected from the Array
 		if (value === "NYC") {
-		$('body').attr('class', '.nyc');
+		$('body').attr('class', 'nyc');
 		}
 		else if (value === "SF") {
-			$('body').attr('class', '.sf');
+			$('body').attr('class', 'sf');
 		}
 		else if (value === "LA") {
-			$('body').attr('class', '.la');
+			$('body').attr('class', 'la');
 		}
 		else if (value === "ATX") {
-			$('body').attr('class', '.austin');
+			$('body').attr('class', 'austin');
 		}
 		else if (value === "SYD") {
-			$('body').attr('class', '.sydney');
+			$('body').attr('class', 'sydney');
 		}
 	})
 })	
